@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\bin\Debug\net6.0\BasicStringsLab.exe
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\bin\Debug\net6.0\BasicStringsLab.deps.json
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\bin\Debug\net6.0\BasicStringsLab.runtimeconfig.json
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\bin\Debug\net6.0\BasicStringsLab.dll
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\bin\Debug\net6.0\BasicStringsLab.pdb
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.AssemblyInfo.cs
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.dll
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\refint\BasicStringsLab.dll
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.pdb
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\BasicStringsLab.genruntimeconfig.cache
+C:\Users\steve\source\repos\BasicStringsLab\BasicStringsLab\obj\Debug\net6.0\ref\BasicStringsLab.dll
